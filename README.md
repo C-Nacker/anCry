@@ -1,5 +1,5 @@
 # [anCry] an anonymous cryptocurrency
-![anCry](doc/img/ancry.png)
+![anCry](doc/img/ancry.PNG)
 
 ##### *anCry will be a new cryptocurrency that guarantees the anonymity of your transactions.*
 
